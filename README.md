@@ -18,6 +18,6 @@ To find the rule of the sequance 1.Number = 6;2.Number = 24; Numbers in between 
 You can also say there is no number in between by typing in 0.
 
 To start:
-Go to the directory. Way 1: Chmod +x sequancefinder.py and ./sequancefinder.py Way 2: python sequancefinder.py
+Go to the directory. Way 1: chmod +x sequancefinder.py and ./sequancefinder.py Way 2: python sequancefinder.py
 
 Hope you like it. Please comment.
